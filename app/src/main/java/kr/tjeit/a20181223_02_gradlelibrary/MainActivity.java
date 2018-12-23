@@ -3,6 +3,8 @@ package kr.tjeit.a20181223_02_gradlelibrary;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.bumptech.glide.Glide;
+
 public class MainActivity extends BaseActivity {
 
     @Override
